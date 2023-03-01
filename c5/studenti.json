@@ -1,0 +1,41 @@
+[
+    {
+        "ime":"Cene Doe",
+        "grad":"Old York",
+        "prosek": 4.9
+    },
+
+    {
+        "ime":"Nekoj Doe",
+        "grad":"New Zooo",
+        "prosek": 6.4
+    },
+
+    {
+        "ime":"Bree VZree",
+        "grad":"New AMAN",
+        "prosek": 4.5
+    },
+
+    {
+        "ime":"Selma Melma",
+        "grad":"Tetoo",
+        "prosek": 8.9
+    },
+
+    {
+        "ime":"Zarko Mee",
+        "grad":"Los Angeles",
+        "prosek": 5
+    },
+    {
+        "ime":"BBu Gffee",
+        "grad":"Skopje",
+        "prosek": 6
+    },
+    {
+        "ime":"Xee Bfes",
+        "grad":"Dojran",
+        "prosek": 7
+    }
+]
